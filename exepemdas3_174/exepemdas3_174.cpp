@@ -69,4 +69,4 @@ int main() {
     bd->input();
 
     return 0;
-}
+} 
